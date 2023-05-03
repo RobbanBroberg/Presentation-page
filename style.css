@@ -253,7 +253,7 @@ figure {
   transform: translateZ(-20px);
 }
 .top-left {
-  transform: rotateY(90deg) translateY(15px) translateZ(-11px);
+  transform: rotateY(90deg) translateY(15px) translateZ(-12px);
   background: rgba(241, 173, 244);
   width: 25px;
   height: 425px;
